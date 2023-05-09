@@ -405,7 +405,7 @@
       "description": "Positive thinking can improve self-esteem, reduce stress, and enhance overall well-being. It also helps in coping with difficult situations and building resilience.",
       "author": "Mark Johnson",
       "authorImage": "https://randomuser.me/api/portraits/men/75.jpg",
-      "date": "2022-05-18"
+      "date": "2022-16-18"
     },
     {
       "id": 6,
@@ -432,7 +432,7 @@
       "description": "Staying hydrated is important for maintaining bodily functions, regulating body temperature, and flushing out toxins. It also promotes healthy skin and prevents fatigue.",
       "author": "Lucy Davis",
       "authorImage": "https://randomuser.me/api/portraits/women/37.jpg",
-      "date": "2022-05-18"
+      "date": "2022-15-18"
     },
     {
       "id": 10,
@@ -468,7 +468,7 @@
       "description": "Social support can reduce stress, improve coping skills, and enhance overall well-being. It also promotes a sense of belonging and provides emotional and practical assistance during difficult times.",
       "author": "Alex Johnson",
       "authorImage": "https://randomuser.me/api/portraits/men/88.jpg",
-      "date": "2022-05-18"
+      "date": "2022-10-18"
     },
     {
       "id": 14,
@@ -477,7 +477,7 @@
       "description": "Mind-body practices like meditation, yoga, and tai chi can improve physical and mental health, reduce stress, and enhance overall well-being. They also promote self-awareness and emotional regulation.",
       "author": "Samantha Lee",
       "authorImage": "https://randomuser.me/api/portraits/women/78.jpg",
-      "date": "2022-05-18"
+      "date": "2022-09-18"
     },
     {
       "id": 15,
@@ -486,7 +486,7 @@
       "description": "Personal development can enhance skills, knowledge, and attitudes, and promote career growth and success. It also supports self-awareness and promotes a growth mindset.",
       "author": "Michael Brown",
       "authorImage": "https://randomuser.me/api/portraits/men/22.jpg",
-      "date": "2022-05-18"
+      "date": "2022-07-18"
     },
     {
       "id": 16,
@@ -495,7 +495,7 @@
       "description": "Resistance training can increase muscle strength and size, improve bone density, and enhance physical function. It also boosts metabolism and reduces the risk of chronic diseases.",
       "author": "Katie Smith",
       "authorImage": "https://randomuser.me/api/portraits/women/92.jpg",
-      "date": "2022-05-18"
+      "date": "2022-08-18"
     }
   ]
 }
