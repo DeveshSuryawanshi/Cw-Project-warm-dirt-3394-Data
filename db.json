@@ -5,7 +5,7 @@
       "username": "Devesh Suryawanshi",
       "email": "devesh@gmail.com",
       "password": "devesh",
-      "image": "https://avatars.githubusercontent.com/u/110163013?v=4"
+      "image": "https://instagram.fixu3-1.fna.fbcdn.net/v/t51.2885-19/355582478_271148738929075_2194666046002549733_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fixu3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=LFypT_qarzMAX8oSuG0&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfC8PS1B2mBAHdGO3r8jibTaNtmTIFtp6r2RU-EdO2dw9g&oe=64C1C8AE&_nc_sid=8b3546"
     },
     {
       "username": "Rangila",
@@ -496,6 +496,15 @@
       "author": "Katie Smith",
       "authorImage": "https://randomuser.me/api/portraits/women/92.jpg",
       "date": "2022-08-18"
+    }
+  ],
+  "admin" : [
+    {
+      "id": 1,
+      "username": "Devesh Suryawanshi",
+      "email": "devesh@gmail.com",
+      "password": "devesh",
+      "image": "https://instagram.fixu3-1.fna.fbcdn.net/v/t51.2885-19/355582478_271148738929075_2194666046002549733_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fixu3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=LFypT_qarzMAX8oSuG0&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfC8PS1B2mBAHdGO3r8jibTaNtmTIFtp6r2RU-EdO2dw9g&oe=64C1C8AE&_nc_sid=8b3546"
     }
   ]
 }
